@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "afterDelay",
+    "git.enableSmartCommit": true,
+    "extensions.ignoreRecommendations": true,
+    "window.zoomLevel": 0,
+    "emmet.includeLanguages": {
+        "vue-html": "html",
+         "javascript": "javascriptreact"
+    },
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "workbench.editor.showTabs": true,
+    "editor.renderWhitespace": "all",
+    "window.menuBarVisibility": "default",
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": true,
+    "workbench.sideBar.location": "left"
+}
